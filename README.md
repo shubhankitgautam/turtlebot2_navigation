@@ -83,7 +83,7 @@ Calibrate friction and damping depending on obstacles and surface type in custom
 Shubhankit – Robotics Enthusiast / Mechanical Engineer
 
 ## References
-[TurtleBot3 Official Documentation]([https://example.com](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/))
+[TurtleBot3 Official Documentation](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
 [ROS2 Navigation2 Guide](https://docs.nav2.org/)
 [Cartographer SLAM](http://google-cartographer.readthedocs.io/en/latest/)
 
