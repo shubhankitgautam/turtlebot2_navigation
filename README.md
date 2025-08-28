@@ -48,7 +48,7 @@ export TURTLEBOT3_MODEL=waffle
 ## Launching the Simulation
 ros2 launch turtlebot3_gazebo turtlebot3_shubhankit_world.launch.py
 
-##SLAM Mapping
+## SLAM Mapping
 ros2 launch nav2_bringup navigation_launch.py use_sim_time:=True
 ros2 launch slam_toolbox online_async_launch.py use_sim_time:=True
 ros2 run rviz2 rviz2
